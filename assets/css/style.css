@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+#counter {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+#resetButton {
+    margin-top: 10px;
+}
